@@ -12,3 +12,4 @@ jupyter_client
 requests
 entrypoints
 tenacity
+mistune>=2.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
