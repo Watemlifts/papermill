@@ -5,7 +5,7 @@ futures ; python_version < "3.0"
 backports.tempfile ; python_version < "3.0"
 pyyaml
 nbformat
-nbconvert >= 5.5
+nbconvert>=7.17.0
 six
 tqdm >= 4.32.2
 jupyter_client
